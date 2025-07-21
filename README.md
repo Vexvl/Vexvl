@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexvl&layout=compact)
 
-[Telegram](https://t.me/vexvl)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vexvl)
 
 <!--
 **Vexvl/Vexvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
