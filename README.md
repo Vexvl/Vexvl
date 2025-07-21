@@ -12,8 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexvl&layout=compact)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vexvl&theme=radical)
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vexvl)
 
 <!--
