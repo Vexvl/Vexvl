@@ -8,6 +8,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexvl&layout=compact)
 
+![Metrics](https://metrics.lecoq.io/vexvl?template=classic&base.repositories=100&base.activity=0&base.community=0&base.metadata=0&config.timezone=Europe%2FMoscow)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vexvl&style=flat-square&color=blue)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vexvl)
