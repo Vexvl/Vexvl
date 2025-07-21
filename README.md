@@ -7,8 +7,7 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vexvl&show_icons=true&theme=radical)
-
-![Metrics](https://metrics.lecoq.io/vexvl?base.activity=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&followup=1&habits=1&isocalendar=1&config.timezone=Europe%2FMoscow)
+![Contribution Stats](https://github-contribution-summary.vercel.app/api/?username=vexvl&year=2023)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexvl&layout=compact)
 
