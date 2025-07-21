@@ -4,6 +4,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vexvl&repo=java-explore-with-me)](https://github.com/vexvl/java-explore-with-me)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vexvl&show_icons=true&theme=radical)
