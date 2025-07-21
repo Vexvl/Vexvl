@@ -8,6 +8,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vexvl&show_icons=true&theme=radical)
 
+![Metrics](https://metrics.lecoq.io/vexvl?base.activity=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&followup=1&habits=1&isocalendar=1&config.timezone=Europe%2FMoscow)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexvl&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vexvl&style=flat-square&color=blue)
