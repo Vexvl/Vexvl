@@ -28,11 +28,19 @@
 [![Jaeger](https://img.shields.io/badge/Jaeger-000000?style=for-the-badge&logo=jaeger&logoColor=white)]()
 [![Spring Actuator](https://img.shields.io/badge/Spring%20Actuator-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vexvl&show_icons=true&theme=radical)
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexvl&layout=compact)
 
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vexvl&style=flat-square&color=blue)
+
+---
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vexvl)
 
