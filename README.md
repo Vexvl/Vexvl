@@ -1,4 +1,4 @@
-### Technologies I have worked with
+<img width="2480" height="995" alt="изображение" src="https://github.com/user-attachments/assets/2a22cc97-28ed-45d3-a06f-a4c064fb604d" />### Technologies I have worked with
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
@@ -31,8 +31,9 @@
 ---
 
 ### Learning / Exploring
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-0052CC?style=for-the-badge&logo=githubactions&logoColor=white)]()
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)]()
 [![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 
 ---
 
