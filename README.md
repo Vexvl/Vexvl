@@ -1,4 +1,4 @@
-<img width="2480" height="995" alt="изображение" src="https://github.com/user-attachments/assets/2a22cc97-28ed-45d3-a06f-a4c064fb604d" />### Technologies I have worked with
+### Technologies I have worked with
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
