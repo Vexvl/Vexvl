@@ -30,6 +30,12 @@
 
 ---
 
+### Learning / Exploring
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-0052CC?style=for-the-badge&logo=githubactions&logoColor=white)]()
+[![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)]()
+
+---
+
 <!--
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vexvl?theme=dark&ext=activity)
