@@ -35,8 +35,6 @@
 [![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)]()
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 
----
-
 <!--
 ## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vexvl?theme=dark&ext=activity)
