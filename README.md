@@ -42,9 +42,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vexvl?theme=dark&ext=activity)
 -->
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vexvl&show_icons=true&theme=radical)
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vexvl&layout=compact)
